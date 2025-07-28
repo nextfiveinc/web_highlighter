@@ -1,8 +1,8 @@
-# Web Highlighter - Your Digital Highlighter for the Web
+# Web Highlighter - The simplest way to save ideas and quotes from any webpage. Free. Private. No login.
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nextfivein/web-highlighter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-v1.0.0-blue.svg)](https://chrome.google.com/webstore/detail/your-extension-id)
+[![Coming soon on Chrome Web Store](https://img.shields.io/badge/Chrome-v1.0.0-blue.svg)](https://chrome.google.com/webstore/)
 [![Mozilla Add-on](https://img.shields.io/badge/Firefox-v1.0.0-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 A privacy-focused browser extension to highlight text on any webpage, add notes, and export your entire collection to clean, portable Markdown. Perfect for researchers, students, and anyone who uses note-taking apps like Obsidian, Logseq, or Joplin.
@@ -22,15 +22,16 @@ A privacy-focused browser extension to highlight text on any webpage, add notes,
 
 You can install Web Highlighter easily from your browser's official store.
 
-### For Google Chrome
-
-1.  Visit the [**Web Highlighter page on the Chrome Web Store**](https://chrome.google.com/webstore/detail/your-extension-id).
-2.  Click "Add to Chrome".
-
 ### For Mozilla Firefox
 
 1.  Visit the [**Web Highlighter page on the Firefox Add-on Store**](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search).
 2.  Click "Add to Firefox".
+
+### For Google Chrome (_coming soon_)
+
+1.  Visit the [**Web Highlighter page on the Chrome Web Store**](https://chrome.google.com/webstore/).
+2.  Click "Add to Chrome".
+
 
 ### Install from Source (for Developers)
 
