@@ -1,4 +1,5 @@
-# Web Highlighter - The simplest way to save ideas and quotes from any webpage. Free. Private. No login.
+# Web Highlighter
+**The simplest way to save ideas and quotes from any webpage, with your own notes. Free. Private. No login.**
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nextfivein/web-highlighter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,8 +8,21 @@
 
 A privacy-focused browser extension to highlight text on any webpage, add notes, and export your entire collection to clean, portable Markdown. Perfect for researchers, students, and anyone who uses note-taking apps like Obsidian, Logseq, or Joplin.
 
-![Screenshot of the highlighting and saving flow](https://github.com/nextfiveinc/web_highlighter/blob/main/screenshots/01_select_text.png)
-![Screenshot of the "My Highlights" popup view](https://github.com/nextfiveinc/web_highlighter/blob/main/screenshots/02_view_export_notes.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/web_highlighter/blob/main/screenshots/01_select_text.png" alt="Screenshot of the highlighting and saving flow" width="500">
+      <br>
+      <em>Highlighting text to save a note.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/web_highlighter/blob/main/screenshots/02_view_export_notes.png" alt="Screenshot of your saved notes view" width="350">
+      <br>
+      <em>Viewing all saved highlights.</em>
+    </td>
+  </tr>
+</table>
+
 
 ## Core Features
 
