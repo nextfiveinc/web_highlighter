@@ -1,7 +1,6 @@
 # Web Highlighter
 **The simplest way to save ideas and quotes from any webpage, with your own notes. Free. Private. No login.**
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nextfivein/web-highlighter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Coming soon on Chrome Web Store](https://img.shields.io/badge/Chrome-v1.0.0-blue.svg)](https://chrome.google.com/webstore/)
 [![Mozilla Add-on](https://img.shields.io/badge/Firefox-v1.0.0-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
