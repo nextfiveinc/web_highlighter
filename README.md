@@ -2,7 +2,7 @@
 **The simplest way to save ideas and quotes from any webpage, with your own notes. Free. Private. No login.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Mozilla Add-on](https://img.shields.io/badge/Firefox-v1.0.0-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[![Mozilla Add-on](https://img.shields.io/badge/Firefox-v1.1.0-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 A privacy-focused browser extension to highlight text on any webpage, add notes, and export your entire collection to clean, portable Markdown. Perfect for researchers, students, and anyone who uses note-taking apps like Obsidian, Logseq, or Joplin.
 
