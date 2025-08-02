@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Web Highlighter",
-  "version": "1.0",
+  "version": "1.2",
   "description": "Highlight text from any webpage and save it with your notes.",
   
   "permissions": [
