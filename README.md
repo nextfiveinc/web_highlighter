@@ -2,8 +2,8 @@
 **The simplest way to save ideas and quotes from any webpage, with your own notes. Free. Private. No login.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Mozilla Add-on](https://img.shields.io/badge/Firefox-v1.1.0-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-v1.0.0-blue.svg)]([https://chrome.google.com/webstore/detail/your-extension-id](https://chromewebstore.google.com/detail/emiaeicgfomchcecbhdfnjjegkpbphjh?utm_source=item-share-cb))
+[![Mozilla Add-on](https://img.shields.io/badge/Firefox-v1.2.0-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-v1.2.0-blue.svg)]([https://chrome.google.com/webstore/detail/your-extension-id](https://chromewebstore.google.com/detail/emiaeicgfomchcecbhdfnjjegkpbphjh?utm_source=item-share-cb))
 
 A privacy-focused browser extension to highlight text on any webpage, add notes, and export your entire collection to clean, portable Markdown. Perfect for researchers, students, and anyone who uses note-taking apps like Obsidian, Logseq, or Joplin.
 
