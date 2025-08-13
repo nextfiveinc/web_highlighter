@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Mozilla Add-on](https://img.shields.io/badge/Firefox-v1.2.0-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-v1.2.0-blue.svg)]([https://chrome.google.com/webstore/detail/your-extension-id](https://chromewebstore.google.com/detail/emiaeicgfomchcecbhdfnjjegkpbphjh?utm_source=item-share-cb))
+[![Chrome Web Store](https://chromewebstore.google.com/detail/emiaeicgfomchcecbhdfnjjegkpbphjh?utm_source=item-share-cb)
 
 A privacy-focused browser extension to highlight text on any webpage, add notes, and export your entire collection to clean, portable Markdown. Perfect for researchers, students, and anyone who uses note-taking apps like Obsidian, Logseq, or Joplin.
 
@@ -40,7 +40,7 @@ You can install Web Highlighter easily from your browser's official store.
 1.  Visit the [**Web Highlighter page on the Firefox Add-on Store**](https://addons.mozilla.org/en-US/firefox/addon/web-highlighter/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search).
 2.  Click "Add to Firefox".
 
-### For Google Chrome (_coming soon_)
+### For Google Chrome
 
 1.  Visit the [**Web Highlighter page on the Chrome Web Store**](https://chromewebstore.google.com/detail/emiaeicgfomchcecbhdfnjjegkpbphjh?utm_source=item-share-cb).
 2.  Click "Add to Chrome".
